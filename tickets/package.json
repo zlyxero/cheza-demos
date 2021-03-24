@@ -1,0 +1,16 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "description": "ticket ordering app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TJ",
+  "license": "ISC",
+  "dependencies": {
+    "cheza": "0.0.1",
+    "dotenv": "^8.2.0",
+    "elarian": "^0.2.2"
+  }
+}
